@@ -1,0 +1,1 @@
+All Rights Reserved. The data in this repository (e.g., `Annotated Feline Disease & Trait Info.tsv`) is not licensed for public use, modification, or distribution. Permission to use the data must be requested and granted by the data owner.
